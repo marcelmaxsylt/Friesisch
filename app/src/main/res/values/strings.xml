@@ -1,0 +1,70 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Frisian</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+    <string name="numberOne">One</string>
+    <string name="numberTwo">two</string>
+    <string name="numberThree">three</string>
+    <string name="numberFour">four</string>
+    <string name="numberFive">five</string>
+    <string name="numberSix">six</string>
+    <string name="numberSeven">seven</string>
+    <string name="numberEight">eight</string>
+    <string name="numberNine">nine</string>
+    <string name="numberTen">ten</string>
+    <string name="familyFather">father</string>
+    <string name="familyMother">mother</string>
+    <string name="familySon">son</string>
+    <string name="familyDaughter">daugther</string>
+    <string name="familyOlderBrother">older brother</string>
+    <string name="familyYoungerBrother">younger brother</string>
+    <string name="familyOlderSister">older sister</string>
+    <string name="familyYoungerSister">younger sister</string>
+    <string name="familyGrandmother">grandmother</string>
+    <string name="familyGrandFather">grandfather</string>
+    <string name="colorRed">red</string>
+    <string name="colorGreen">green</string>
+    <string name="colorBrown">brown</string>
+    <string name="colorGray">gray</string>
+    <string name="colorBlack">black</string>
+    <string name="colorWhite">white</string>
+    <string name="colorOrange">orange</string>
+    <string name="colorYellow">yellow</string>
+    <string name="phraseWhereAreYouGoing">Where are you going?</string>
+    <string name="phraseWhatIsYourName">What is your Name?</string>
+    <string name="phraseMyNameIs">My name is...</string>
+    <string name="phraseHowAreYouFeeling">How are you feeling?</string>
+    <string name="phraseImGood">I\'m feeling good.</string>
+    <string name="phraseAreYouComing">Are you coming?</string>
+    <string name="phraseYesImComing">Yes, I\'m coming.</string>
+    <string name="phraseImComing">I\'m coming.</string>
+    <string name="phraseLetsGo">Let\'s go.</string>
+    <string name="phraseComeHere">Come Here.</string>
+    <string name="colorBlue">blue</string>
+    <string name="colorViolet">violet</string>
+</resources>
